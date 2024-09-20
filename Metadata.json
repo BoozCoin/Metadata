@@ -1,0 +1,15 @@
+{
+  "name": "BoozCoin",
+  "symbol": "BOOZ",
+  "description": "BoozCoin is a utility token for the wine, spirits and beer industry.",
+  "image": "https://lavender-perfect-wildebeest-759.mypinata.cloud/ipfs/QmZ6t1AddmPtJR93QbabGM86jLqLNCDEvaTkMyCaygnKGw",
+  "extensions": {
+    "website": "https://boozcoin.com/",
+    "twitter": "https://x.com/boooz_coin",
+    "telegram": "https://t.me/+VbmOx64LuqU2MzU1", 
+    "facebook": "https://www.facebook.com/boozcoin", 
+    "discord": "https://discord.com/invite/YqjNb2Z6x2", 
+    "youtube": "https://www.youtube.com/channel/UCgzzhdhtY6hgNEL6VE2nacw", 
+    "linkedin": "https://www.linkedin.com/company/boozcoin/"
+  }
+}
